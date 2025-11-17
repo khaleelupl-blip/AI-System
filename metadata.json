@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AI-Powered Attendance & Location System",
+  "description": "An advanced, AI-assisted attendance and location management system designed for construction projects. It features role-based dashboards for employees, managers, and administrators, with selfie-based check-ins, real-time location tracking, and intelligent configuration suggestions powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
